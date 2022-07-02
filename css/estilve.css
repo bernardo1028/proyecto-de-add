@@ -1,0 +1,329 @@
+* {
+    tamaño de caja : cuadro de borde;
+    familia de fuentes : Raleway;
+    color :  # 777 ;
+}
+
+html ,  cuerpo {
+    margen :  0 ;
+    relleno :  0 ;
+    min-altura :  100 % ;
+}
+
+. navegación  ul {
+    margen :  0 ;
+}
+
+. navegación  li {
+    pantalla : en línea;
+}
+
+. navegar  un {
+    pantalla : bloque en línea;
+    acolchado :  0,5 cm ;
+    color : blanco;
+    decoración de texto : ninguno;
+}
+
+. navegación principal {
+    alineación de texto : centro;
+    tamaño de fuente :  1,1 em ;
+    fuente-peso : más ligero;
+    borde inferior :  1 px sólido rgba ( 255 ,  255 ,  255 ,  .3 )
+}
+
+. navegación principal  li {
+    relleno :  0  5 % ;
+}
+
+. nav  a : flotar {
+    color de fondo :  rgba ( 255 ,  255 ,  255 ,  .3 )
+}
+
+. encabezado principal {
+    color de fondo :  rgba ( 0 ,  0 ,  0 ,  .6 );
+    imagen de fondo :  url ( "Imágenes/Fondo del encabezado.jpg" );
+    modo de mezcla de fondo : multiplicar;
+    tamaño de fondo : portada;
+    relleno inferior :  30 px ;
+}
+
+. nombre de la banda {
+    alineación de texto : centro;
+    margen :  0 ;
+    tamaño de fuente :  4 em ;
+    familia de fuentes :  "Booter - Zero Zero" ;
+    peso de fuente : normal;
+    color : blanco;
+}
+
+. nombre-banda-grande {
+    tamaño de fuente :  8 em ;
+}
+
+. sección de contenido {
+    margen :  1 em ;
+}
+
+. contenedor {
+    ancho máximo :  900 px ;
+    margen :  0 automático;
+    relleno :  0  1,5 cm ;
+}
+. encabezado de sección {
+    familia de fuentes :  "Metal Mania" ;
+    peso de fuente : normal;
+    color :  # 333 ;
+    alineación de texto : centro;
+    tamaño de fuente :  2,5 em ;
+}
+
+. sobre la imagen de la banda {
+    flotante : izquierda;
+    altura :  200 píxeles ;
+    ancho :  200 píxeles ;
+    margen :  15 px ;
+    borde-radio :  50 % ;
+}
+
+. pie de página principal {
+    color de fondo :  # 56CCF2 ;
+    color : blanco;
+    relleno :  0,25 em  0 ;
+}
+
+. contenedor de pie de página principal {
+    pantalla : flexible;
+    alinear elementos : centro;
+}
+
+. contenedor de pie de página principal  ul {
+    crecimiento flexible :  1 ;
+    alineación de texto : fin;
+}
+
+. pie de página-nav  li {
+    relleno :  0,5 cm ; _ 
+}
+
+. pie de página-nav  img {
+    ancho :  30 píxeles ;
+    altura :  30 píxeles ;
+}
+
+. botón {
+    alineación de texto : centro;
+    alineación vertical : medio;
+    acolchado :  0,67  cm 0,67 cm ;
+    cursor : puntero;
+}
+
+. btn-encabezado {
+    margen :  .5 em  15 %  2 em  15 % ;
+    color : blanco;
+    borde :  2 px sólido # 2D9CDB ;
+    color de fondo :  rgba ( 255 ,  255 ,  255 ,  .1 );
+    borde-radio :  0 ;
+    tamaño de fuente :  1,5 em ;
+    fuente-peso : más ligero;
+    relleno-izquierda :  2 em ;
+    relleno derecho :  2 em ;
+}
+
+. btn-encabezado : flotar {
+    color de fondo :  rgba ( 255 ,  255 ,  255 ,  .3 );
+}
+
+. btn-reproducir {
+    pantalla : bloque;
+    margen :  0 automático;
+    color :  # 2D9CDB ;
+    tamaño de fuente :  4 em ;
+    borde-radio :  50 % ;
+    ancho :  100 píxeles ;
+    altura :  100 píxeles ;
+    relleno :  0 ;
+    alineación de texto : centro;
+}
+
+. btn-primario {
+    color : blanco;
+    color de fondo :  # 56CCF2 ;
+    borde : ninguno;
+    borde-radio :  0,3 em ;
+    fuente-peso : negrita;
+}
+
+. btn-principal : flotar {
+    color de fondo :  # 2D9CDB ;
+}
+
+. gira-fila {
+    borde inferior :  1 px negro sólido;
+    acolchado inferior :  1 em ;
+    margen inferior :  1 em ;
+}
+
+. recorrido-fila : último hijo {
+    borde : ninguno;
+}
+
+. tour-item {
+    pantalla : bloque en línea;
+    relleno derecho :  0,5 em ;
+}
+
+. fecha de gira {
+    color :  # 555 ;
+    ancho :  11 % ;
+    fuente-peso : negrita;
+}
+
+. tour-ciudad {
+    ancho :  24 % ;
+}
+
+. gira-arena {
+    ancho :  42 % ;
+}
+
+. tour-btn {
+    ancho máximo :  19 % ;
+}
+
+. tienda-artículo {
+    margen :  30 px ;
+}
+
+. tienda-artículo-título {
+    pantalla : bloque;
+    ancho :  100 % ;
+    alineación de texto : centro;
+    fuente-peso : negrita;
+    tamaño de fuente :  1,5 em ;
+    color :  # 333 ;
+    margen inferior :  15 px ;
+}
+
+. tienda-artículo-imagen {
+    altura :  250 píxeles ;
+}
+
+. tienda-artículo-detalles {
+    pantalla : flexible;
+    alinear elementos : centro;
+    relleno :  5 px ;
+}
+
+. precio-artículo-tienda {
+    crecimiento flexible :  1 ;
+    color :  # 333 ;
+}
+
+. tienda-artículos {
+    pantalla : flexible;
+    envoltura flexible : envoltura;
+    justificar-contenido : espacio-alrededor;
+}
+
+. encabezado del carrito {
+    fuente-peso : negrita;
+    tamaño de fuente :  1,25 em ;
+    color :  # 333 ;
+}
+
+. carro-columna {
+    pantalla : flexible;
+    alinear elementos : centro;
+    borde inferior :  1 px negro sólido;
+    margen derecho :  1,5 em ;
+    relleno inferior :  10 px ;
+    margen superior :  10 px ;
+}
+
+. carro-fila {
+    pantalla : flexible;
+}
+
+. carrito-artículo {
+    ancho :  45 % ;
+}
+
+. precio del carrito {
+    ancho :  20 % ;
+    tamaño de fuente :  1,2 em ;
+    color :  # 333 ;
+}
+
+. carrito-cantidad {
+    ancho :  35 % ;
+}
+
+. carrito-artículo-título {
+    color :  # 333 ;
+    margen izquierdo :  0,5 em ;
+    tamaño de fuente :  1,2 em ;
+}
+
+. carrito-artículo-imagen {
+    ancho :  75 píxeles ;
+    altura : automático;
+    borde-radio :  10 px ;
+}
+
+. btn-peligro {
+    color : blanco;
+    color de fondo :  # EB5757 ;
+    borde : ninguno;
+    borde-radio :  0,3 em ;
+    fuente-peso : negrita;
+}
+
+. btn-peligro : flotar {
+    color de fondo :  # CC4C4C ;
+}
+
+. entrada-cantidad-carrito {
+    altura :  34 píxeles ;
+    ancho :  50 píxeles ;
+    borde-radio :  5 px ;
+    borde :  1 px sólido # 56CCF2 ;
+    color de fondo :  # eee ;
+    color :  # 333 ;
+    relleno :  0 ;
+    alineación de texto : centro;
+    tamaño de fuente :  1,2 em ;
+    margen derecho :  25 px ;
+}
+
+. carro-fila : ultimo-hijo {
+    borde inferior :  1 px negro sólido;
+}
+
+. fila de carritos : último hijo . carro-columna {
+    borde : ninguno;
+}
+
+. carrito-total {
+    alineación de texto : fin;
+    margen superior :  10 px ;
+    margen derecho :  10 px ;
+}
+
+. carrito-total-título {
+    fuente-peso : negrita;
+    tamaño de fuente :  1,5 em ;
+    color : negro;
+    margen derecho :  20 px ;
+}
+
+. carrito-precio-total {
+    color :  # 333 ;
+    tamaño de fuente :  1,1 em ;
+}
+
+. btn-compra {
+    pantalla : bloque;
+    margen :  40 px automático 80 px automático;
+    tamaño de fuente :  1,75 em ;
+}
